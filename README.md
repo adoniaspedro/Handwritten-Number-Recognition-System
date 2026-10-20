@@ -1,2 +1,7 @@
-# COS30018-Handwritten-Number-Recognition-System-
-OCR application that utilise python and it's library to Recognize number
+# Handwritten Number Recognition System
+
+*In the terminal, make sure to set the directory under the **Task4** folder.*
+*Paste in the first line into the terminal install the required libraries and fameowrks for the app. Then paste the second line into the terminal to run the application.*
+
+pip install torch torchvision numpy pillow matplotlib opencv-python scipy scikit-learn
+python gui_main.py --weights expr16_clean.pth
