@@ -11,3 +11,5 @@
 **pip install torch torchvision numpy pillow matplotlib opencv-python scipy scikit-learn**
 
 **python gui_main.py --weights expr16_clean.pth**
+
+Check the **Task4** folder for the app instructions
