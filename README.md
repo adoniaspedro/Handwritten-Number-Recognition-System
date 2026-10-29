@@ -12,4 +12,4 @@
 
 **python gui_main.py --weights expr16_clean.pth**
 
-Check the **Task4** folder for the app instructions *README_hnrp.md*
+Check the **Task4** folder for the app instructions (*README_hnrp.md*)
